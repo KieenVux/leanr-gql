@@ -1,0 +1,6 @@
+- name: learn_gql
+  definition:
+    url: http://learn-gql:3000/graphql
+    timeout_seconds: 60
+    customization: {}
+    forward_client_headers: true
